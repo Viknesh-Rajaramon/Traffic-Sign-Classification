@@ -34,7 +34,6 @@ CNN training accuracy and testing accuracy graph:
 
 Download the [Datasets](https://github.com/Viknesh-Rajaramon/Traffic-Sign-Classification/tree/main/Datasets) and save the downloaded folders in a folder titled 'omniglot'. Save the [python code](Traffic_Sign_Classifier.py) in the same directory as the 'datasets'.
 
-
 ```
 Traffic_Sign_Classifier.py
 Datasets
@@ -43,6 +42,7 @@ Datasets
 │___  Train
 │___  Test.csv
 │___  Train.csv
+```
 
 Make sure you have the following libraries installed to run the code.
 ```
