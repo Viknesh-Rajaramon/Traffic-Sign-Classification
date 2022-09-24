@@ -1,4 +1,4 @@
-# Traffic-Sign-Classification
+# Traffic Sign Classification
 
 Traffic sign classification is the process of automatically recognizing traffic signs along the road, including yield signs, pedestrians, children crossing, priority signs etc. Automatic recognition of traffic signs enables us to build "smarter cars". In order to understand and properly parse the roadway, Self-driving cars need traffic sign recognition. Similarly, “driver alert” systems inside cars need to understand the roadway around them to help aid and protect drivers. Traffic sign recognition is just one of the problems that computer vision and deep learning can solve.
 
