@@ -19,10 +19,14 @@ This repository contains:
 
 
 ## Result
-Achieved an accuracy score of 94.37%. <br>
-CNN training loss and testing loss graph: <br>
+Achieved an accuracy score of 94.37%.
+<br>
+CNN training loss and testing loss graph:
+<br>
 <img src = "https://github.com/Viknesh-Rajaramon/Traffic-Sign-Classification/blob/main/Training_and_Testing_loss_graph.jpg" width="600">
-CNN training accuracy and testing accuracy graph: <br>
+<br>
+CNN training accuracy and testing accuracy graph:
+<br>
 <img src = "https://github.com/Viknesh-Rajaramon/Traffic-Sign-Classification/blob/main/Training_and_Testing_accuracy_graph.jpg" width="600">
 
 
